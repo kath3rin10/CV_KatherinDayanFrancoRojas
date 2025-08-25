@@ -5,19 +5,21 @@
 **Profesión:** _Analista y desarrolladora de software_
 
 ## 📞 Contacto
-- **Teléfono:** +57 320 878 5360
 - **Email:** [katherindayanfrancorojas@gamail.com](mailto:katherindayanfrancorojas@gamail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
 ### **Sena** _(2025 - Actualidad)_
 - Python
-- Js.
+- Js
 
 ## 🎓 Educación
-### **Integrado De Soacha** _(2024)_
-- Bachiller
+### **sena** _(2025-actual)_
 - Técnico en Análisis y desarrollo de software
+
+Alemania Unificada (2024)
+- Bachiller 
+- Técnico en programación de software 
 
 ## 💡 Habilidades
 - **Responsable**
