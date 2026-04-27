@@ -12,6 +12,8 @@
 ### **Sena** _(2025 - Actualidad)_
 - Python
 - Js
+- Html
+- Css
 
 ## 🎓 Educación
 ### **sena** _(2025-actual)_
